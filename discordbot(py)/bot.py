@@ -129,4 +129,4 @@ async def randommem(ctx):
 
 
 
-bot.run('MTI5MTEwMjUwNDk1MTc0MjYxNw.GuRWI5.zkaXheCMOWSBaAnLiWphVX4wE-QFiPOkhgOdkw')
+bot.run('MYT_TOKEN')
